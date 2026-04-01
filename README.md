@@ -1,3 +1,9 @@
+# AI Agents for Beginners
+
+_In this fork, I am modifying all the code samples in the main repository to run with a local model served by Ollama._
+
+-------------------------
+
 # AI Agents for Beginners - A Course
 
 ![Generative AI For Beginners](./images/repo-thumbnailv2.png)
